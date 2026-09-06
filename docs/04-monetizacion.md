@@ -1,27 +1,42 @@
 # Monetización
 
-## Requisito crítico: cero copyright de terceros
+## Requisito crítico: guiño sí, plagio no
 
-Todo el plan de monetización se cae si el canal recibe reclamos de
-Content ID o de marca. Reglas no negociables:
+Todo el plan de monetización se cae si el canal acumula reclamos de
+Content ID o de marca. El canal SÍ hace guiños visuales y sonoros
+reconocibles a Modern Warfare, Halo, Mirror's Edge, GTA y FIFA/PES
+(es parte del gancho para captar visitas), pero siempre **recreados
+desde cero**, nunca **extraídos** del juego original. La guía completa,
+con ejemplos concretos por franquicia y un checklist de publicación,
+está en
+[`06-guia-guinos-vs-plagio.md`](06-guia-guinos-vs-plagio.md) —
+léela antes de producir. Resumen de las reglas no negociables:
 
-- **Música**: 100% original o con licencia comercial explícita (nada de
-  samples de bandas sonoras de Modern Warfare, Halo, Mirror's Edge, GTA,
-  FIFA/PES, ni de sus efectos de sonido de menú/logro/killstreak).
-  Un reclamo de Content ID puede desmonetizar el vídeo aunque el resto
-  sea original.
-- **Visuales**: sin capturas de pantalla, gameplay, logos ni interfaces
-  reales de esos juegos o consolas. Se recrean *inspiradas*, con diseño
-  propio (ver `02-branding.md`).
-- **Nombres de marca**: evitar usar "Xbox", "PlayStation", "Call of
-  Duty", "Halo", etc. como parte del nombre del canal, títulos o
-  miniaturas. Se puede referenciar la *época* y el *género* ("shooter
-  militar", "consolas de séptima generación") en descripciones, que es
-  comentario/referencia cultural y no uso de marca.
+- **Música y SFX**: 100% original (recreado en DAW/synth, incluido el
+  voice-over de "anunciador de racha" o los bleeps de menú) o con
+  licencia comercial explícita. Nunca samples, loops ni fragmentos —
+  por cortos que sean — extraídos del audio real del juego, y nunca una
+  melodía o frase reconocible re-tocada con otro instrumento (eso sigue
+  siendo la misma obra protegida). Un reclamo de Content ID puede
+  desmonetizar el vídeo aunque el resto sea original.
+- **Visuales**: el guiño va en la *mecánica/convención* (contador de
+  racha, minimapa, marcador de partido, estrellas de búsqueda,
+  destello tipo "vision runner"...), redibujada con diseño propio —
+  nunca en capturas de pantalla, gameplay, logos, iconos ni tipografías
+  oficiales de esos juegos o consolas (ver `02-branding.md`).
+- **Nombres de marca**: se pueden nombrar los juegos como texto
+  descriptivo en títulos/descripciones ("inspirado en las noches de
+  Modern Warfare 2") — es referencia cultural/uso nominativo, no uso de
+  marca — pero sin su logo, sin insinuar patrocinio ni afiliación
+  oficial.
+- Los disclaimers tipo "sin ánimo de infringir copyright" no protegen
+  legalmente ni evitan un Content ID claim — sirven solo para dejar
+  clara la falta de afiliación.
 - Si en algún momento se quiere usar un asset real con permiso, pedir
   licencia explícita por escrito antes de publicar.
 
-Cumpliendo esto, el canal es monetizable sin riesgo estructural.
+Cumpliendo esto, el canal puede hacer los guiños que buscan visitas sin
+asumir un riesgo estructural de copyright.
 
 ## Vías de ingreso (orden de aparición esperado)
 

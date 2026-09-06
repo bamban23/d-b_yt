@@ -39,11 +39,28 @@ noche de FIFA/PES con los amigos.
 - **Terciario**: público más joven (16-24) que consume estética "core"
   Y2K/retro-gaming sin haber vivido la época directamente.
 
+## Guiños a MW, Halo, Mirror's Edge, GTA y FIFA/PES (sí, con reglas)
+
+El canal SÍ hace referencias visuales y sonoras reconocibles a estos
+juegos a propósito — son el gancho de descubrimiento y lo que nos
+diferencia de un canal de DnB genérico. La regla no es "no referenciar",
+es **no plagiar**: recreamos la *convención* (el tipo de sonido/imagen
+que todo jugador de la época reconoce) con producción 100% propia, nunca
+el *asset* exacto del juego (el archivo de audio real, la melodía
+original, el logo, la captura de pantalla).
+
+Ejemplos de guiño permitido vs. plagio a evitar, y el porqué legal
+detrás de la distinción, en
+[`06-guia-guinos-vs-plagio.md`](06-guia-guinos-vs-plagio.md) — **lectura
+obligatoria antes de producir cualquier vídeo** de aquí en adelante.
+
 ## Qué NO es este canal
 
 - No es un canal de gameplay ni de clips de juegos (evita copyright y
   no compite con canales de gaming).
-- No usa audio, música ni SFX extraídos de los juegos mencionados.
+- No extrae ni samplea audio, música, voces o SFX reales de los juegos
+  mencionados — los recrea desde cero (ver guía de guiños).
+- No usa logos, capturas ni assets visuales oficiales de esos juegos.
 - No depende de "reaccionar" a contenido ajeno.
 
 ## Diferenciación frente a canales de mixes genéricos

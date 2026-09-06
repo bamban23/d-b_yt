@@ -20,6 +20,7 @@ reclamos de Content ID.
 | [`docs/03-estrategia-contenido.md`](docs/03-estrategia-contenido.md) | Pilares de contenido, formatos, SEO, cadencia de publicación |
 | [`docs/04-monetizacion.md`](docs/04-monetizacion.md) | Vías de ingreso, requisitos YPP, hoja de ruta y notas de copyright |
 | [`docs/05-calendario-90-dias.md`](docs/05-calendario-90-dias.md) | Plan de publicación semana a semana para los primeros 90 días |
+| [`docs/06-guia-guinos-vs-plagio.md`](docs/06-guia-guinos-vs-plagio.md) | **Lectura obligatoria antes de producir**: cómo hacer guiños a MW, Halo, Mirror's Edge, GTA y FIFA/PES sin plagiar SFX/assets reales |
 
 ## Estado actual
 

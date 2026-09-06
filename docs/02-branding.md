@@ -37,6 +37,19 @@ Referencia estética, no assets: recreamos la *sensación* de las UI de la
   - Textura de escaneo CRT / ruido VHS sutil para dar sensación de TV de tubo.
   - Iconografía de rango/estrellas/prestigio para numerar episodios
     ("Prestige 01", "Prestige 02"...).
+- **Guiños por franquicia** (recreados con diseño propio, nunca assets
+  reales — detalle y límites en
+  [`06-guia-guinos-vs-plagio.md`](06-guia-guinos-vs-plagio.md)):
+  - *Modern Warfare*: contador de racha de bajas propio, HUD militar,
+    estética de visor/radio táctica.
+  - *Halo*: ping de radar/motion tracker propio, paleta nave espacial
+    verde-negro, barra de escudo de energía.
+  - *Mirror's Edge*: destello rojo "runner vision" que marca el camino
+    del beat, motion graphics de velocidad/parkour.
+  - *GTA*: estrellas de "búsqueda policial" rediseñadas como medidor de
+    intensidad del mix, estética de dial de radio.
+  - *FIFA/PES*: marcador de partido y animación de alineación aplicada
+    al tracklist del mix.
 - **Miniaturas (thumbnails)**: fondo oscuro, tipografía HUD grande,
   silueta abstracta de "jugador" o controlador (dibujo propio, no logo de
   marca), número de sesión bien visible, paleta de 2 colores máximo.

@@ -40,6 +40,16 @@ sin usar el nombre de ningún juego ni marca registrada.
 Referencia estética, no assets: recreamos la *sensación* de las UI de la
 época con diseño propio, nunca capturas ni logos originales.
 
+**Lienzo de identidad (trabajo en curso):**
+[claude.ai/code/artifact/4c522442-7414-446d-a391-6c78914c874a](https://claude.ai/code/artifact/4c522442-7414-446d-a391-6c78914c874a)
+— direcciones de logo, panel de marca (paleta/tipografía/librería HUD) y
+plantilla de miniatura editables en vivo. Es un lienzo de Claude Design,
+no un archivo del repo: vive en esa URL (privada, de la cuenta que lo
+creó) y se sigue editando ahí. Cuando cerremos una dirección definitiva,
+exportamos los assets finales (PNG/SVG del logo, plantilla de miniatura)
+y los versionamos en este repo — de momento solo queda enlazado aquí
+para que el equipo lo encuentre.
+
 - **Paleta principal**: verde lima sobre negro (guiño a "Xbox Live"),
   combinado con azul degradado tipo XMB de PS3, y acentos naranja/rojo
   tipo HUD de shooter militar.

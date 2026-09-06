@@ -1,4 +1,4 @@
-# D&B_YT — Canal de Drum & Bass con estética gaming 2000s/2010s
+# Most Wanted Sessions — Canal de Drum & Bass con estética gaming 2000s/2010s
 
 Proyecto para lanzar y monetizar un canal de YouTube de **Drum and Bass**
 ambientado en la estética sonora y visual de la era **Xbox 360 / PS3**

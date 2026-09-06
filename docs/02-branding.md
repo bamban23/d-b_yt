@@ -1,23 +1,39 @@
 # Branding e identidad visual
 
-## Nombre del canal (candidatos)
+## Nombre del canal: Most Wanted Sessions ✅ (definitivo)
 
-Criterios: evocar consola + multijugador + bass, ser corto, libre de marcas
-registradas (nada de "Xbox", "PlayStation", "Halo", "COD", etc. en el nombre
-ni en el logo — riesgo de marca registrada).
+Guiño directo al "wanted level" de GTA (las estrellas de búsqueda),
+sin usar el nombre de ningún juego ni marca registrada.
 
-1. **Split Screen Bass** — referencia directa a la pantalla dividida del
-   multijugador local (GTA, FIFA, Halo).
-2. **Respawn Radio** — referencia al respawn de shooters, suena a estación
-   de radio/mixes.
-3. **Prestige Sessions** — referencia al sistema de rangos de Modern Warfare.
-4. **LAN Party Bass** — nostalgia de quedar en casa de un amigo a jugar en red.
-5. **Killcam Bass** — referencia a la repetición de la mejor jugada (killcam de COD).
-6. **16:9 Bass** *(alternativa más sutil, formato de pantalla de la época)*
+**Diligencia hecha antes de cerrarlo:**
+- No existe canal de YouTube ni cuenta de Instagram/TikTok con el nombre
+  exacto "Most Wanted Sessions" ni "Most Wanted Bass".
+- Se descartó **"Most Wanted Bass"** (la opción inicial) por solape
+  dentro de la propia escena drum & bass: existen compilaciones
+  **"Most Wanted Drum & Bass"** (2017, 2018...) y el DJ/productor
+  **Ray Keith** usa el alias **"London's Most Wanted"**. Añadir
+  "Sessions" en vez de "Bass" diferencia el nombre de ambos y sigue el
+  patrón de naming de series que ya usa el canal (ver más abajo).
+- Se descartó **"Respawn Bass"** por chocar con la marca registrada
+  "RESPAWN ENTERTAINMENT" (estudio de EA) y con la marca de sillas
+  gaming "Respawn" — mismo nicho de audiencia, riesgo de marca real.
+- No es una garantía permanente (habría que re-verificar antes de
+  registrar el handle definitivo en cada plataforma), pero a fecha de
+  esta decisión el nombre está limpio.
 
-> Recomendación: **Split Screen Bass** — es el concepto más transversal
-> (aplica a shooters, GTA y deportivos), no toca marcas registradas y da
-> pie a una identidad visual clara (pantalla dividida).
+## Candidatos descartados (histórico)
+
+1. ~~Split Screen Bass~~ — referencia a la pantalla dividida del
+   multijugador local; buena opción pero menos específica que Most
+   Wanted Sessions.
+2. ~~Respawn Radio~~ / ~~Respawn Bass~~ — descartado, ver arriba.
+3. ~~Prestige Sessions~~ — se reutiliza como nombre de una serie interna
+   (ver "Naming de series/playlists"), no como nombre de canal.
+4. ~~LAN Party Bass~~
+5. ~~Killcam Bass~~
+6. ~~16:9 Bass~~
+7. ~~Wanted Level Bass~~ — la opción intermedia antes de llegar a Most
+   Wanted Sessions.
 
 ## Identidad visual
 

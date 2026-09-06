@@ -1,4 +1,4 @@
-# Generador de miniaturas — Split Screen Bass
+# Generador de miniaturas — Most Wanted Sessions
 
 Plantilla HTML/CSS (`template.html`) con la identidad visual del canal
 (paleta lima/azul/naranja, marco "split screen", esquinas HUD,
@@ -10,7 +10,7 @@ usando Playwright.
 ```bash
 npm install
 npx playwright install chromium   # solo la primera vez, descarga el navegador
-npm run render -- --rank "PRESTIGE 02" --series "SPLIT SCREEN BASS" \
+npm run render -- --rank "PRESTIGE 02" --series "MOST WANTED SESSIONS" \
   --title "ARENA DNB\nMIX" --duration "60 MIN" --out output/prestige-02.png
 ```
 

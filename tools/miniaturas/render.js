@@ -1,5 +1,5 @@
 // Genera una miniatura PNG (1280x720) a partir de template.html
-// Uso: node render.js --rank "PRESTIGE 02" --series "SPLIT SCREEN BASS" --title "ARENA DNB\nMIX" --duration "60 MIN" --out output/prestige-02.png
+// Uso: node render.js --rank "PRESTIGE 02" --series "MOST WANTED SESSIONS" --title "ARENA DNB\nMIX" --duration "60 MIN" --out output/prestige-02.png
 const fs = require("fs");
 const path = require("path");
 const { chromium } = require("playwright");
@@ -16,7 +16,7 @@ function parseArgs() {
 async function main() {
   const args = parseArgs();
   const rank = args.rank || "PRESTIGE 01";
-  const series = args.series || "SPLIT SCREEN BASS";
+  const series = args.series || "MOST WANTED SESSIONS";
   const title = (args.title || "TACTICAL DNB\\nMIX").replace(/\\n/g, "<br>");
   const duration = args.duration || "45 MIN";
   const outPath = args.out || "output/miniatura.png";

@@ -81,6 +81,11 @@ para que el equipo lo encuentre.
   marca), número de sesión bien visible, paleta de 2 colores máximo.
   Se producen con generador de imagen (IA) siguiendo estos criterios de
   marca, sin plantilla de código propia.
+- **Vídeo de los mixes**: al ser música ambiental, el vídeo no necesita
+  visualizer ni animación — una imagen fija (la misma estética de
+  marca) fusionada con el audio es suficiente. Ver
+  [`tools/render-video/`](../tools/render-video/) para el script que
+  genera el MP4 final.
 
 ## Tono de voz
 

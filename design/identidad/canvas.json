@@ -1,0 +1,16 @@
+{
+  "artboards": [
+    { "file": "Logo1.dc.html", "x": 0, "y": 0, "w": 520, "h": 760 },
+    { "file": "Logo2.dc.html", "x": 600, "y": 0, "w": 520, "h": 760 },
+    { "file": "Logo3.dc.html", "x": 1200, "y": 0, "w": 520, "h": 760 },
+    { "file": "BrandBoard.dc.html", "x": 0, "y": 900, "w": 1720, "h": 820 },
+    { "file": "Main.dc.html", "x": 0, "y": 1860, "w": 1280, "h": 720 },
+    { "file": "MainTacticalHUD.dc.html", "x": 1360, "y": 1860, "w": 1280, "h": 720 }
+  ],
+  "annotations": [
+    { "id": "note-logos", "x": 0, "y": -110, "w": 480, "text": "3 direcciones de logo/wordmark — elige una (o mézclalas) para el avatar y las cabeceras del canal." },
+    { "id": "note-template", "x": 0, "y": 1750, "w": 480, "text": "Original: plantilla de miniatura ya aprobada. El recuadro punteado es donde se compone la foto generada con IA." },
+    { "id": "note-tactical", "x": 1360, "y": 1750, "w": 500, "text": "PRUEBA — copia solo para comparar: letras más grandes y con corte angular (Turret Road) tipo PS3, y HUD con guiño a shooter táctico (minimapa, escuadra, contador) recreado con iconos y texto propios, no assets de Battlefield." }
+  ],
+  "launch": { "view": "canvas" }
+}

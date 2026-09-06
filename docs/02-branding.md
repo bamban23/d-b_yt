@@ -69,9 +69,8 @@ Referencia estética, no assets: recreamos la *sensación* de las UI de la
 - **Miniaturas (thumbnails)**: fondo oscuro, tipografía HUD grande,
   silueta abstracta de "jugador" o controlador (dibujo propio, no logo de
   marca), número de sesión bien visible, paleta de 2 colores máximo.
-  Plantilla y generador automático en
-  [`tools/miniaturas/`](../tools/miniaturas/) (código) o recreable a
-  mano en Canva/Figma/Photopea siguiendo estos mismos criterios.
+  Se producen con generador de imagen (IA) siguiendo estos criterios de
+  marca, sin plantilla de código propia.
 
 ## Tono de voz
 

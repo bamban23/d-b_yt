@@ -1,0 +1,12 @@
+{
+  "name": "miniaturas-split-screen-bass",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Generador de miniaturas de marca para el canal a partir de template.html",
+  "scripts": {
+    "render": "node render.js"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}

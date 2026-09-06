@@ -1,11 +1,22 @@
 # Identidad visual — fuente del lienzo de diseño
 
+> **Estado**: el lienzo de Claude Design sirvió para explorar
+> direcciones de logo y cerrar el sistema de marca (colores,
+> tipografía, layout), pero su edición por arrastre no es fiable para
+> una composición tan densa de capas superpuestas (HUD/carátula) — los
+> elementos "saltan" a otro sitio en vez de moverse con libertad. La
+> plantilla de miniatura pasa a reconstruirse en **Canva** siguiendo
+> [`canva-handoff.md`](canva-handoff.md), donde el movimiento de
+> capas sí funciona con normalidad. El lienzo se queda como referencia
+> visual (las fuentes se ven bien ahí) y como origen del sistema de
+> marca (paleta, tipografía, logo elegido).
+
 Código fuente de los tableros del lienzo de identidad publicado en
 Claude Design:
 [claude.ai/code/artifact/4c522442-7414-446d-a391-6c78914c874a](https://claude.ai/code/artifact/4c522442-7414-446d-a391-6c78914c874a)
 
-El lienzo en sí (donde se ve y se edita visualmente) vive en esa URL.
-Estos archivos son la fuente versionada — sin ellos en el repo, el
+El lienzo en sí (donde se ve, con las fuentes correctas) vive en esa
+URL. Estos archivos son la fuente versionada — sin ellos en el repo, el
 único sitio donde existía el diseño era la sesión de Claude Code que
 lo creó.
 

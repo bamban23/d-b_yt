@@ -1,6 +1,6 @@
 # Monetización
 
-## Requisito crítico: guiño sí, plagio no
+## Requisito crítico 1: guiño sí, plagio no
 
 Todo el plan de monetización se cae si el canal acumula reclamos de
 Content ID o de marca. El canal SÍ hace guiños visuales y sonoros
@@ -38,6 +38,55 @@ léela antes de producir. Resumen de las reglas no negociables:
 Cumpliendo esto, el canal puede hacer los guiños que buscan visitas sin
 asumir un riesgo estructural de copyright.
 
+## Requisito crítico 2: música e imagen generadas por IA — curación humana obligatoria
+
+El plan del canal usa IA tanto para la música (Suno/Udio o similar)
+como para las miniaturas/fondo. Esto es un riesgo **distinto** al de
+copyright: es la política de **"contenido inauténtico"** de YouTube
+(renombrada el 15 de julio de 2025, antes "contenido repetitivo"), y
+no mide si usaste IA sino si hay transformación/curación humana real
+encima. No es un matiz menor — desde finales de 2025, **más del 40% de
+los canales de música 100% generada por IA han sido descalificados del
+Partner Program o suspendidos** bajo esta política.
+
+**Regla de producción no negociable**: la IA genera *material bruto*
+(loops, ideas, stems, imágenes), nunca el vídeo final tal cual. Un
+"dump" de lo que escupe Suno/Udio subido directamente como mix es
+exactamente el patrón que se está penalizando. En su lugar:
+
+- **Audio**: la IA genera el material, pero **alguien mezcla,
+  secuencia, ecualiza y masteriza** ese material en una sesión real —
+  igual que un DJ trabaja con samples, no un botón de generar-y-publicar.
+  Ese trabajo de mezcla/edición es la "transformación humana" que la
+  política exige.
+- **Variación real entre subidas**: cada mix necesita un mood,
+  tracklist y narrativa propios — no el mismo prompt repetido con
+  semillas distintas.
+- **Capas de valor añadidas por humanos**: identidad visual propia
+  (ya construida), tracklists con criterio, descripciones pensadas,
+  narrativa por serie/franquicia (ver `03-estrategia-contenido.md`) —
+  todo esto cuenta como "perspectiva/creatividad propia" a ojos de la
+  política.
+- **Nunca contenido "fácilmente replicable a escala con mínimo esfuerzo
+  humano"** (la propia definición de YouTube) — si el proceso de
+  producción de un mix se puede automatizar de principio a fin sin que
+  nadie tome decisiones creativas, ese mix está en la zona de riesgo.
+
+**Divulgación**: la etiqueta "contenido alterado o sintético" de
+YouTube Studio aplica a contenido *realista* que pudiera confundirse
+con una persona/evento real (voces sintéticas de personas reales,
+vídeo falso de un suceso real) — un mix instrumental de DnB con arte
+no fotorrealista normalmente no la necesita, pero es buena práctica
+ser transparentes en la descripción sobre el uso de IA en la
+producción, tanto por confianza con la audiencia como por si la
+política se amplía.
+
+El canal tiene que pasar, a la vez, cinco políticas que se solapan:
+contenido inauténtico, contenido reutilizado, divulgación de IA,
+apto para anunciantes y Content ID. El Requisito 1 de este documento
+cubre copyright/Content ID; este cubre contenido inauténtico — ambos
+son igual de determinantes para poder monetizar.
+
 ## Vías de ingreso (orden de aparición esperado)
 
 1. **YouTube Partner Program (AdSense)**
@@ -66,7 +115,7 @@ asumir un riesgo estructural de copyright.
 
 | Fase | Hito | Acción |
 |---|---|---|
-| 0 (actual) | Estrategia y marca | Definir identidad, primeros 10-15 tracks originales |
+| 0 (actual) | Estrategia y marca | Definir identidad, primeros 10-15 tracks (material IA + mezcla/curación humana, ver Requisito 2) |
 | 1 (0-3 meses) | Lanzamiento | Publicar cadencia regular, activar Super Thanks/membresías en cuanto se habiliten |
 | 2 (3-6 meses) | Crecimiento | Alcanzar 1.000 subs / 4.000h → activar AdSense; lanzar Patreon |
 | 3 (6-12 meses) | Diversificación | Merch propio, primeras colaboraciones/patrocinios, venta de música en DSPs |
@@ -78,3 +127,6 @@ asumir un riesgo estructural de copyright.
 - **CTR de miniatura** y **retención en los primeros 30s** (Shorts).
 - **Suscriptores por vídeo** (qué formato convierte mejor a suscripción).
 - **Reclamos de Content ID** (objetivo: 0 — es una señal de salud del canal).
+- **Avisos de contenido inauténtico en YT Studio** (objetivo: 0 — si
+  aparece uno, es señal de que algún mix se pareció demasiado a un
+  "dump" de IA sin curación suficiente; revisar el proceso de mezcla).
